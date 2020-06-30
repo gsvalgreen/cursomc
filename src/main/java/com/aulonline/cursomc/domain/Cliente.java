@@ -1,6 +1,6 @@
-package com.aulonline.cursomc.dominio;
+package com.aulonline.cursomc.domain;
 
-import com.aulonline.cursomc.dominio.enums.TipoCliente;
+import com.aulonline.cursomc.domain.enums.TipoCliente;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 
 import javax.persistence.*;

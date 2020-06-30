@@ -1,4 +1,4 @@
-package com.aulonline.cursomc.dominio;
+package com.aulonline.cursomc.domain;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 

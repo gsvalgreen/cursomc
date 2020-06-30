@@ -1,6 +1,6 @@
 package com.aulonline.cursomc.repositories;
 
-import com.aulonline.cursomc.dominio.Endereco;
+import com.aulonline.cursomc.domain.Endereco;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
 package com.aulonline.cursomc.resources;
 
-import com.aulonline.cursomc.dominio.Cliente;
+import com.aulonline.cursomc.domain.Cliente;
 import com.aulonline.cursomc.services.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

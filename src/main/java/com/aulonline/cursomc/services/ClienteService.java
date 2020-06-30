@@ -1,6 +1,6 @@
 package com.aulonline.cursomc.services;
 
-import com.aulonline.cursomc.dominio.Cliente;
+import com.aulonline.cursomc.domain.Cliente;
 import com.aulonline.cursomc.repositories.ClienteRepository;
 import com.aulonline.cursomc.services.exceptions.ObjectNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
